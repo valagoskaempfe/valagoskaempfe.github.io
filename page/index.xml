@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Beautiful Hugo</title>
+    <title>Pages on Portafolio Taller Integrado</title>
     <link>https://valagoskaempfe.github.io/page/</link>
-    <description>Recent content in Pages on Beautiful Hugo</description>
+    <description>Recent content in Pages on Portafolio Taller Integrado</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
@@ -12,14 +12,12 @@
     
     
     <item>
-      <title>About me</title>
+      <title>Valentina Lagos Kaempfe</title>
       <link>https://valagoskaempfe.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
       <guid>https://valagoskaempfe.github.io/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
- I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+      <description>En este MID 2020, en el ramo Taller de Diseño Integrado, permite de manera sensible integrar distintas experiencias formativas. Partiendo por el dibujo y la contemplación del entorno para generar propuestas que contengan personalidad y carácter. De este modo se refleja la intencionalidad de un proyecto, donde se integran técnicas tales como representación visual, modelado 3D, fabricación digital, portafolio web, prototipado rápido, fabricación análoga, electrónica y conceptos ded interacción física.</description>
     </item>
     
   </channel>
