@@ -122,12 +122,21 @@ Generar planos de luz (con papel mantequilla y alambre) con cierto volumen de su
     </item>
     
     <item>
-      <title>Post 9 - Investigación Tema</title>
+      <title>Investigación Tema</title>
       <link>https://valagoskaempfe.github.io/post/2016-03-08-code-sample-copy-2/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
       <guid>https://valagoskaempfe.github.io/post/2016-03-08-code-sample-copy-2/</guid>
-      <description>&lt;h3 id=&#34;otra-forma-de-realidad&#34;&gt;Otra forma de realidad&lt;/h3&gt;</description>
+      <description>&lt;h3 id=&#34;otra-forma-de-realidad-simmulada&#34;&gt;Otra forma de realidad simmulada&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Propuestas de Diseño</title>
+      <link>https://valagoskaempfe.github.io/post/2016-03-08-code-sample-copy-5/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://valagoskaempfe.github.io/post/2016-03-08-code-sample-copy-5/</guid>
+      <description>&lt;h3 id=&#34;covid-19&#34;&gt;Covid-19&lt;/h3&gt;</description>
     </item>
     
   </channel>
