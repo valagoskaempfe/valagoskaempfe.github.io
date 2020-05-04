@@ -109,7 +109,25 @@ Generar planos de luz (con papel mantequilla y alambre) con cierto volumen de su
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
       <guid>https://valagoskaempfe.github.io/post/2016-03-08-code-sample-copy-3/</guid>
-      <description>&lt;h3 id=&#34;figma&#34;&gt;Figma&lt;/h3&gt;</description>
+      <description>&lt;h3 id=&#34;figma&#34;&gt;FIGMA&lt;/h3&gt;
+
+
+
+&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+  
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://valagoskaempfe.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://valagoskaempfe.github.io/img/FIG-thumb.png&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://valagoskaempfe.github.io/img/FIG-thumb.png&#34; alt=&#34;/img/FIG-thumb.png&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://valagoskaempfe.github.io/img/FIG.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;</description>
     </item>
     
     <item>
